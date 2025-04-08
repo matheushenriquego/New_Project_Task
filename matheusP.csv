@@ -1,0 +1,2 @@
+Project_Name,Project_Description,Project_Manager,Project_Colaborators,Project_Dini,Project_Tini,Project_Dend,Project_Tend,Project_Tasks
+Projeto,descrição,matheus,"lola, matheus",20/10/2025,20:00,25/10/2025,20:00,"[{'Task_Name': 'name', 'Task_Priority': np.int64(2), 'Task_Status': 'On_going', 'Task_Manager': 'matheus', 'Task_Collaborators': 'lola, matheus', 'Task_Type': 'Recurring'}]"
